@@ -1,0 +1,11 @@
+{
+  "name": "malcolms-revenge",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare:engine": "node scripts/prepare-engine.mjs",
+    "build": "node build.mjs",
+    "verify": "node proof/runtime-proof.mjs"
+  },
+  "devDependencies": {"esbuild": "0.25.12"}
+}

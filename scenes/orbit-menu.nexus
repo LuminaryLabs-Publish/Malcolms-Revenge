@@ -1,0 +1,14 @@
+{
+  "schema": "starline.scene/1",
+  "id": "orbit-menu",
+  "kind": "menu",
+  "planet": {
+    "position": [
+      -105,
+      12,
+      -154
+    ],
+    "radius": 38
+  },
+  "orbitRadius": 67
+}

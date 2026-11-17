@@ -1,0 +1,15 @@
+{
+  "schema": "starline.scene/1",
+  "id": "starline",
+  "kind": "root",
+  "kits": [
+    "scene-lifecycle-kit",
+    "spatial-vector-math-kit"
+  ],
+  "children": [
+    "orbit-menu",
+    "leg-aurora",
+    "leg-ember",
+    "leg-glass"
+  ]
+}
